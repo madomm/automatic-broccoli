@@ -5,3 +5,5 @@ Version control is an essential skill for developers to master, and Git is by fa
 First Commit
 
 Second Commit
+
+Third Commit
